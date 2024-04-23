@@ -1,5 +1,5 @@
 # Enigma
-Enigma, the AI helper:
+Enigma, the AI Assistant:
 
 The goal of the AI Assistant Model (Enigma) project is to create a sophisticated virtual assistant that can recognise gestures in addition to voices. It expands accessibility and user experience by proposing a dual-modality approach, which tackles the constraints of current virtual assistants. The project aims to accomplish reliable gesture recognition, intuitive control mapping, and precise hand pose estimate by combining a number of libraries and technologies, including Media Pipe, OpenCV, and PyAutoGUI.
 
